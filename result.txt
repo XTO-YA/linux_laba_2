@@ -1,0 +1,2 @@
+Linux 340b4554f61b 5.10.16.3-microsoft-standart-WSL2 #1 SMP Mon Dec 13 11:06:56 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+/bin/bash
